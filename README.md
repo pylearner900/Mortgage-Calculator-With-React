@@ -1,12 +1,43 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🏠 Mortgage Calculator – Lloyds Banking Group Forage Simulation
 
-Currently, two official plugins are available:
+This project was developed as part of a **job simulation task provided by Lloyds Banking Group on the Forage platform**. The aim was to enhance customer experience by addressing real-world usability issues reported by customers regarding the mortgage calculator tool.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Project Overview
 
-## Expanding the ESLint configuration
+User feedback highlighted several problems with the existing mortgage calculator:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ❌ Confusing terminology and technical jargon  
+- ❌ Cluttered layout and difficult navigation  
+- ❌ Hidden key features and non-intuitive interface  
+- ❌ Instability and poor performance on mobile devices  
+
+To resolve these issues, a redesigned mortgage calculator was built using **React**, with a focus on clarity, responsiveness, and usability.
+
+## ✅ Features
+
+- 🔢 **Inputs**: Loan amount, down payment, interest rate, and loan term  
+- 💡 **Tooltips**: Simple language and inline help to explain terms  
+- 🖱️ **Instant Calculation**: One-click monthly payment computation  
+- 🔄 **Reset Button**: Quickly clear all input fields  
+- 📱 **Responsive Design**: Fully functional on both desktop and mobile devices  
+
+## 🎨 Tech Stack
+
+- **React** – Frontend library for building the interface  
+- **CSS** – Custom styling for layout and UI  
+- **Bootstrap** – For responsive and consistent design elements  
+
+## 💡 Key Learnings
+
+- Applied customer feedback to improve UI/UX design  
+- Developed a user-friendly and mobile-responsive tool  
+- Gained practical experience in **React**, **responsive design**, and **user testing**  
+- Improved understanding of real-world problem-solving in a business context  
+
+
+## 📷 Screenshots / Demo
+
+![Screenshot 1 of Mortgage Calculator](./screenshot1.png)
+![Screenshot 2 of Mortgage Calculator](./screenshot2.png)
+
