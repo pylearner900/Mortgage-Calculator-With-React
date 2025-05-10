@@ -38,6 +38,6 @@ To resolve these issues, a redesigned mortgage calculator was built using **Reac
 
 ## 📷 Screenshots / Demo
 
-![Screenshot 1 of Mortgage Calculator](./screenshot-1.png)
-![Screenshot 2 of Mortgage Calculator](./screenshot-2.png)
+![Screenshot 1 of Mortgage Calculator](./Screenshot-1.png)
+![Screenshot 2 of Mortgage Calculator](./Screenshot-2.png)
 
